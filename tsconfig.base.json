@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@vdespeisse/image-diff": ["libs/image-diff/src/index.ts"]
+      "@vdespeisse/image-diff": ["libs/image-diff/src/index.ts"],
+      "@vdespeisse/visual-compare": ["libs/visual-compare/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

@@ -33,6 +33,7 @@
   "dependencies": {
     "@swc/helpers": "~0.5.2",
     "looks-same": "^9.0.0",
+    "puppeteer": "^21.7.0",
     "tslib": "^2.3.0"
   },
   "nx": {
